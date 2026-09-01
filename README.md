@@ -1,4 +1,4 @@
-# geods
+# GeoDS
 Python environment for Geospatial Data Science
 
 ### Installation on a UNIX-like system
